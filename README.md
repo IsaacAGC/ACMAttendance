@@ -1,1 +1,1 @@
-# ACMAttendance
+For ACM attendance purposes
